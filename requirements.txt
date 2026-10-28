@@ -1,0 +1,13 @@
+# Member A stack (pin exact versions once everything works)
+langgraph
+langchain-core
+chromadb
+sentence-transformers
+pypdf
+pyyaml
+pytest
+fastapi
+uvicorn
+redis
+rq
+python-dotenv
